@@ -1,5 +1,4 @@
 # 🌞 Smart Solar Tracking System with Automated Blind Control
-*aka the project where the sun finally listened to me*
 
 Welcome to my minor mini project — the era where I went from  
 **“why did I even take this minor 😭”**  
@@ -56,11 +55,11 @@ Powered by Arduino UNO (my emotional-support microcontroller).
 ---
 
 ## ▶️ How to Run
-1.Open Arduino IDE.
-2.Plug in your UNO.
-3.PRAY.
-4.Upload the code.
-5.Watch the servos vibe with the sun like they’re in a slow-mo music video.
+1. Open Arduino IDE.
+2. Plug in your UNO.
+3. PRAY.
+4. Upload the code.
+5. Watch the servos vibe with the sun like they’re in a slow-mo music video.
 
 ---
 
